@@ -46,6 +46,7 @@
 ---
 
 ### 🏙️ Smart City Network — Cisco Packet Tracer
+![Smart City](Smart City.webp)
 > A complete smart city network topology designed in Cisco Packet Tracer.
 - Includes Public WiFi, City Hall, Hospital Zone, Smart Home, and Emergency zones
 - Configured routers, switches, DHCP servers, and IoT devices
