@@ -1,12 +1,12 @@
 # Hi there, I'm Fatima 👋
 
-### BSSE Student | Air University Islamabad | Aspiring Frontend Developer
+### BSSE Student | Air University Islamabad | Full Stack Developer
 
 ---
 
 ## 🚀 About Me
 - 🎓 Bachelor of Software Engineering — Air University, Islamabad
-- 💻 Passionate about Frontend Development and building real-world solutions
+- 💻 Passionate about Full Stack Development and building real-world solutions
 - 🌱 Currently mastering: C++, OOP, Git/GitHub, HTML/CSS
 - 📢 Running a 30-day OOP learning series on LinkedIn
 - 📍 Islamabad, Pakistan
