@@ -66,4 +66,6 @@
 
 ---
 
+![Smart City](Smart%20City.webp)
+
 ⭐ *Currently on a 30-day OOP learning journey — follow along on LinkedIn!*
