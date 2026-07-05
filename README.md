@@ -67,6 +67,6 @@
 
 ![Smart City](Smart%20City.webp)
 
-![FoodRescue](foodrescue-web.png)
+![FoodRescue](Food%20Rescue%20Website.jpeg)
 
 ⭐ *Currently on a 30-day OOP learning journey — follow along on LinkedIn!*
