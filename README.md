@@ -60,11 +60,6 @@
 - Features scoring system, levels, hold piece, and high score tracking
 - Built using C++ with console-based graphics
 
-## 📊 GitHub Stats
-![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatimabibi7020-cell&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimabibi7020-cell&layout=compact&theme=tokyonight&cache_seconds=1800)
-
 ---
 
 ## 🤝 Connect With Me
