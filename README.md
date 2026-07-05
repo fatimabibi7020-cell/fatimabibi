@@ -53,6 +53,13 @@
 
 ---
 
+### 🎮 Tetris Game
+> A fully functional Tetris game built in C++ and by using SFML as part of Programming Fundamentals coursework at Air University.
+
+- Implemented game logic including piece movement, rotation, and collision detection
+- Features scoring system, levels, hold piece, and high score tracking
+- Built using C++ with console-based graphics
+
 ## 📊 GitHub Stats
 ![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatimabibi7020-cell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
@@ -68,5 +75,6 @@
 ![Smart City](Smart%20City.webp)
 
 ![FoodRescue](Food%20Rescue%20Website.jpeg)
+
 
 ⭐ *Currently on a 30-day OOP learning journey — follow along on LinkedIn!*
