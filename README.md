@@ -61,20 +61,20 @@
 - Built using C++ with console-based graphics
 
 ## 📊 GitHub Stats
-![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatimabibi7020-cell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatimabibi7020-cell&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fatimabibi7020-cell&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-here)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-bibi-783081385/)
 ---
 
 ![Smart City](Smart%20City.webp)
 
 ![FoodRescue](Food%20Rescue%20Website.jpeg)
 
+![Tetris](tetris.png)
 
 ⭐ *Currently on a 30-day OOP learning journey — follow along on LinkedIn!*
