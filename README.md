@@ -75,6 +75,6 @@
 
 ![FoodRescue](Food%20Rescue%20Website.jpeg)
 
-![Tetris](tetris.png)
+![Tetris](Tetrius%20Game.jpeg)
 
 ⭐ *Currently on a 30-day OOP learning journey — follow along on LinkedIn!*
